@@ -1,6 +1,11 @@
 <div align="center">
  
  # 👨‍💻 William dos Santos Machado - WilliamdsMachado
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamdsmachado/)
+[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williamdsmachado/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/william.machado.9889261/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@universodigitalti)
+[![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5534998890415?text=Ol%C3%A1!%20tudo%20bem?%20)
  
 ### Bem-vindo ao meu GitHub! Aqui você encontrará projetos que refletem minha paixão por desenvolvimento Fullstack, dados e Inteligência Artificial.
 
@@ -10,7 +15,7 @@ Desenvolvedor Full Stack | Python | SQL | HTML | CSS | JavaScript| Angular | Rea
 Formado em Licenciatura em Computação (IFTM).\
 Estou a 3 anos como Analista Desenvolvedor FullStack, na squad silce-refatoracao da comunidade Loterias Caixa, refatorando sistema legado para microserviço em quarkus e java 21, atualmente estou em processo de transição de carreira para área de DataScience.
 
-Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu tio com windows 95 e que além de usar aprendi a concertar e a cada ano que se passava eu adentrava mais profundo na área Tech, passando por experiências como professor aos 18 anos de idade, empresário ramo de prestação de serviços de tecnologia, estudante de licenciatura, programador freelancer, analista de suporte N2 e atualmente estudante autodidata de DataScience e IA.
+Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu tio com windows 95 e que além de usar aprendi a concertar e a cada ano que se passava eu adentrava mais profundo na área Tech, passando por experiências como professor aos 18 anos de idade, diplomado em 2017 em licenciatura, empresário ramo de prestação de serviços de tecnologia em 2009 até 2023, 2021 a 2025 programador freelancer, analista de suporte N2, atuando como desenvolvedor ativo no mercado e em 2025 atualmente estudante autodidata de DataScience e IA.
 
 ---
 
@@ -103,7 +108,7 @@ Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu t
 
 ---
 ## 📊 GitHub Estatísticas
-[![trophy](https://github-profile-trophy.vercel.app/?username=Carlos-CGS&theme=onedark&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WilliamdsMachado&theme=gitdimmed&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
@@ -111,9 +116,9 @@ Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu t
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=carlos-cgs&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=WilliamdsMachado&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-cgs&layout=compact&theme=radical&custom_title=Languages"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamdsMachado&layout=compact&theme=radical&custom_title=Languages"/></td>
   </tr>
 </table>
 
