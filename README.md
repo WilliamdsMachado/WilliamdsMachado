@@ -1,7 +1,6 @@
 <div align="center">
  
  # 👨‍💻 William dos Santos Machado - WilliamdsMachado
- <img src="capa.png">
  
 ### Bem-vindo ao meu GitHub! Aqui você encontrará projetos que refletem minha paixão por desenvolvimento Fullstack, dados e Inteligência Artificial.
 
@@ -30,18 +29,26 @@ Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu t
 #### Banco de Dados:
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Postgressql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Frameworks:
-![.net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Quarkus](https://img.shields.io/badge/quarkus-512BD4?style=for-the-badge&logo=quarkus&logoColor=ffffff)
+![Hibernate](https://img.shields.io/badge/Hibernate-512BD4?style=for-the-badge&logo=hibernate&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-009CAB?style=for-the-badge&logo=docker&logoColor=white)
+
 
 #### Ambientes Desenvolvimento (IDE):
-![VS-Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VS-Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-5C2D91?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Intelij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 #### Outras Tecnologias:
 ![ChatGpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -57,7 +64,7 @@ Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu t
 ## 🚀 Participações e Conquistas
 
 #### Bootcamps e Cursos:
-[<img src="https://assets.dio.me/kyM2lTKV1pkxFDtV4gAZ0Ub703CGFfXopKX64pUvpaI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmE2ZjJmYzktMDk3YS00Y2U3LTgxODEtNjBmNGRmYzZkZGI3LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/DMX9UZ6S.pdf)
+[<img src="" height="50"></a>](https://learn.microsoft.com/pt-br/users/williamdossantosmachado-8464/credentials/certification/azure-ai-fundamentals?wt.mc_id=certnurture_eml14_email_wwl&tab=tab-courses)
 [<img src="https://assets.dio.me/u6Ybb3oH8W5AHaJS_VGQ5SRwiXGXXF3eloJOkaC8knU/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvOTM0Yjk3NmYtZTEwMi00NzNlLTg3MWYtOWVhNWYxZGY4NzZlLnBuZw" height="50"></a>](https://hermes.dio.me/certificates/FOCVETHW.pdf)
 [<img src="https://assets.dio.me/WZJSKdzJr113C_qiFfhHn_wH9YGPubVIuxR3XOKk3m8/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvZmIxMTk5ZTUtM2FiNy00ODYzLWI2NjYtMmVjN2JiMjNlNzRmLnBuZw" height="55"></a>](https://hermes.dio.me/certificates/WTYKAEUX.pdf)
 [<img src="https://assets.dio.me/LQztstYC-_9DhdUaqgGeMeHyWTEnXlwqZyVNTJBDpwI/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNjFlYTc2ZGQtMDgxOS00NDIzLWI0ZDAtZDkwZDFhZGVhMjk2LnBuZw" height="50"></a>](https://hermes.dio.me/certificates/SVTACDD1.pdf)
