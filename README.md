@@ -70,10 +70,14 @@ Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu t
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Microsoft%20azure.png" height="50" title="Desafio Fundamentos do Microsoft Azure"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/F2MKGQPX?sharingId=A91895CDA1A40772)
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Curso%20SC-900T00A%20Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals.png" height="50" title="Desafio Microsoft Azure AI Fundamentals"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/UXRYP7E3?sharingId=A91895CDA1A40772)
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/DataScience.png" height="50" title="Data Science Santander Tech+ | Ada Tech"/></a>](https://ada.tech/certificado?code=4bf12018-2a79-889e-598b-de00cd4e5088)
-[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/cert%20java.png" height="50"/></a>](https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/cert%20java.png)
+[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/cert%20java.png" height="50" title="Academia Java"/></a>](https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/cert%20java.png)
+[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/EDN.png" height="50" title="Microsoft Skills"/></a>](https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/msskills.png)
+[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/EDN.png" height="50" title="AWS DEV-IA"/></a>](https://github.com/WilliamdsMachado/IMG-TEC/blob/main/img/AWS%20Dev-IA.png)
+
+
 
 #### Certificações e Formações:
-[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/AI.png" height="50"></a>](https://learn.microsoft.com/api/credentials/share/pt-br/WilliamdosSantosMachado-8464/21BF7F7AB4DA07B4?sharingId=A91895CDA1A40772)
+[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/AI.png" height="50" title="Certificação Microsoft AI900"></a>](https://learn.microsoft.com/api/credentials/share/pt-br/WilliamdosSantosMachado-8464/21BF7F7AB4DA07B4?sharingId=A91895CDA1A40772)
 
 
 ---
