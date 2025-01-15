@@ -70,7 +70,7 @@ Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu t
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Microsoft%20azure.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/F2MKGQPX?sharingId=A91895CDA1A40772)
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Curso%20SC-900T00A%20Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/UXRYP7E3?sharingId=A91895CDA1A40772)
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Azure%20AI%20.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/UXRYP7E3?sharingId=A91895CDA1A40772)
-[<img src="" height="50"/></a>]()
+[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/DataScience.png" height="50"/></a>](https://ada.tech/certificado?code=4bf12018-2a79-889e-598b-de00cd4e5088)
 [<img src="" height="50"/></a>]()
 
 #### Certificações e Formações:
