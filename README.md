@@ -72,8 +72,11 @@ Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu t
 
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Curso%20SC-900T00A%20Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/UXRYP7E3?sharingId=A91895CDA1A40772)
 
-[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Curso%20SC-900T00A%20Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/NZEL9TMF?sharingId=A91895CDA1A40772)
-[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Curso%20SC-900T00A%20Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/NZEL9TMF?sharingId=A91895CDA1A40772)
+[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Azure%20AI%20.png" height="50"/></a>]()
+
+[<img src="" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/UXRYP7E3?sharingId=A91895CDA1A40772)
+
+[<img src="" height="50"/></a>]()
 
 #### Certificações e Formações:
 [<img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="50"></a>](https://www.credly.com/badges/dd770403-b985-4b9a-ad14-711dce728c97/public_url)
