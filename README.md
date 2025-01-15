@@ -71,17 +71,11 @@ Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu t
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Curso%20SC-900T00A%20Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/UXRYP7E3?sharingId=A91895CDA1A40772)
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Azure%20AI%20.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/UXRYP7E3?sharingId=A91895CDA1A40772)
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/DataScience.png" height="50"/></a>](https://ada.tech/certificado?code=4bf12018-2a79-889e-598b-de00cd4e5088)
-[<img src="" height="50"/></a>]()
+[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/cert%20java.png" height="50"/></a>](https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/cert%20java.png)
 
 #### Certificações e Formações:
-[<img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="50"></a>](https://www.credly.com/badges/dd770403-b985-4b9a-ad14-711dce728c97/public_url)
-[<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>](https://hermes.dio.me/certificates/SHYYQMRK.pdf)
-[<img src="https://hermes.dio.me/tracks/5d55a4ec-ef34-4222-830f-18dea83ba393.png" height="50"></a>](https://hermes.dio.me/certificates/53OXVZRG.pdf)
-[<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://hermes.dio.me/certificates/APNBUNKW.pdf)
-[<img src="https://micheletaverna.info/wp-content/uploads/2021/09/ssyb-six-sigma-yellow-belt-281x300.webp" height="50"></a>](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-CarlosHenriqueGarciaSoares-884912.pdf)
-[<img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" height="50"/></a>](https://www.scrumstudy.com/certification/verify?type=SFC&number=1004566)
-[<img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height="50"/></a>](https://www.credly.com/badges/92330b0c-f085-4930-88a6-c47abfa33459/public_url)
-[<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
+[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/AI.png" height="50"></a>](https://learn.microsoft.com/api/credentials/share/pt-br/WilliamdosSantosMachado-8464/21BF7F7AB4DA07B4?sharingId=A91895CDA1A40772)
+
 
 ---
 ## 📊 GitHub Estatísticas
