@@ -78,6 +78,7 @@ Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu t
 
 #### Certificações e Formações:
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/AI.png" height="50" title="Certificação Microsoft AI900"></a>](https://learn.microsoft.com/api/credentials/share/pt-br/WilliamdosSantosMachado-8464/21BF7F7AB4DA07B4?sharingId=A91895CDA1A40772)
+[<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Diploma.png" height="50" title="Diploma L.Computação"></a>](https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Diploma.png)
 
 
 ---
