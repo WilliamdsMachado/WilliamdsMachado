@@ -67,13 +67,9 @@ Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu t
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Cloud%20Skills%20Challenge%20at%20Build.png" height="50"></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/W75RQ3ZN?sharingId=A91895CDA1A40772)
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/AI%20Skills%20Challenge.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/BG6XVPND?sharingId=A91895CDA1A40772)
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Curso%20SC-900T00A%20Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/NZEL9TMF?sharingId=A91895CDA1A40772)
-
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Microsoft%20azure.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/F2MKGQPX?sharingId=A91895CDA1A40772)
-
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Curso%20SC-900T00A%20Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals.png" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/UXRYP7E3?sharingId=A91895CDA1A40772)
-
 [<img src="https://raw.githubusercontent.com/WilliamdsMachado/IMG-TEC/refs/heads/main/img/Azure%20AI%20.png" height="50"/></a>]()
-
 [<img src="" height="50"/></a>](https://learn.microsoft.com/api/achievements/share/pt-br/WilliamdosSantosMachado-8464/UXRYP7E3?sharingId=A91895CDA1A40772)
 
 [<img src="" height="50"/></a>]()
