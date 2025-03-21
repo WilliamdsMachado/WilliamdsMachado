@@ -31,6 +31,7 @@ Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu t
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgressql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Frameworks:
 ![Quarkus](https://img.shields.io/badge/quarkus-512BD4?style=for-the-badge&logo=quarkus&logoColor=ffffff)
