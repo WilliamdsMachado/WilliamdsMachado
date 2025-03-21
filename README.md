@@ -11,7 +11,7 @@
 
 ---
 
-Desenvolvedor Full Stack | Python | SQL | HTML | CSS | JavaScript| Angular | React.\
+Desenvolvedor Full Stack Java | Python | SQL | HTML | CSS | JavaScript| Angular | React.\
 Formado em Licenciatura em Computação (IFTM).\
 Estou a 3 anos como Analista Desenvolvedor FullStack, na squad silce-refatoracao da comunidade Loterias Caixa, refatorando sistema legado para microserviço em quarkus e java 21, atualmente estou em processo de transição de carreira para área de DataScience.
 
