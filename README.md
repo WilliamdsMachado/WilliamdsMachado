@@ -12,7 +12,7 @@
 ---
 
 Desenvolvedor Full Stack Java | Python | SQL | HTML | CSS | JavaScript| Angular | React.\
-Formado em Licenciatura em Computação (IFTM).\
+Formado em Licenciatura em Computação (IFTM) e cursando pós graduação em Inteligencia Artificial e Machine Learning.\
 Estou a 3 anos como Analista Desenvolvedor FullStack, na squad silce-refatoracao da comunidade Loterias Caixa, refatorando sistema legado para microserviço em quarkus e java 21, atualmente estou em processo de transição de carreira para área de DataScience.
 
 Meu interesse por tecnologia começou quando com 9 anos ganhei um micro de meu tio com windows 95 e que além de usar aprendi a concertar e a cada ano que se passava eu adentrava mais profundo na área Tech, passando por experiências como professor aos 18 anos de idade, diplomado em 2017 em licenciatura, empresário ramo de prestação de serviços de tecnologia em 2009 até 2023, 2021 a 2025 programador freelancer, analista de suporte N2, atuando como desenvolvedor ativo no mercado e em 2025 atualmente estudante autodidata de DataScience e IA.
